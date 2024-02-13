@@ -1,0 +1,32 @@
+_repo: The-way-of-the-spirit_72906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Rider
+    - Haggard, Henry Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_issued: '2024-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72906'
+language: en
+pgterms:marc904: https://archive.org/details/wayspirit00hagggoog/page/n14/mode/2up?view=theater
+pgterms:marc905: 20231106113744haggard
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Produced by Larry Dunn
+publication_note: '  $aLondon :$bHutchinson & Co., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The way of the spirit
+url: http://www.gutenberg.org/ebooks/72906
